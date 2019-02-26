@@ -1,1 +1,1 @@
-
+echo 'init:arch: called...'
